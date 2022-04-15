@@ -3,5 +3,5 @@
 ### AI & ML course in NCU
 ARTCNN : Art Paintings recognition with CNN <br>
 StockRNN : Stock price prediction with RNN <br>
-<br>
-Maze : 
+TextGeneration : predicting the context and generating text using RNN <br>
+Maze : using Qlearning and RL to 
